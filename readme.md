@@ -1,0 +1,1 @@
+# Create an Application that has a car Java Bean that includes name,type and description as attributes.The application should use a form to populate that bean and show a confirmation page that displays which value were entered on the form.
